@@ -1,2 +1,2 @@
 ### Practical Machine Learning
-This is the repository for the final project of **Practical Machine Learning** course of **JHU** in **Coursera**.
+This is the repository for the final project of **Practical Machine Learning** course of **JHU** in **Coursera**. Visit the github.io version of this report in this [link](https://imjbmkz.github.io/pml_jhu/practical_machine_learning_course_project.html). You may also visit this article in [RPubs](https://rpubs.com/jvaldeleon/pml_project). The summary report of this project is to be published soon on [LinkedIn](https://www.linkedin.com/in/josh-valdeleon-2a8984150/) and [Medium](https://imjbmkz.medium.com/).
